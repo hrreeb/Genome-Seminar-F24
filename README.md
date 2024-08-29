@@ -1,4 +1,10 @@
 # Genome-Seminar-F24
-please work
 
-test sentence, coding scares me
+This is where progress and work for Fall 2024 Genome Seminar will be. 
+
+
+
+#Day 1
+Today we worked on submitting sbatch and sh files
+
+
