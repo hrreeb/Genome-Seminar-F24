@@ -4,7 +4,7 @@ This is where progress and work for Fall 2024 Genome Seminar will be.
 
 
 
-#Day 1
+# Day 1
 Today we worked on submitting sbatch and sh files
 
 [test.sbatch](test.sbatch)
