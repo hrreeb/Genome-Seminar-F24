@@ -17,3 +17,8 @@ Today we worked on accessing the mamba/.conda environment, writing .sbatch and .
 [ecoli_fastqc.sh](ecoli_fastqc.sh)
 
 
+# # Proposal Assignment
+
+Submit proposal document 
+
+[Research Proposal, BIOL7263.pdf](Research Proposal, BIOL7263.pdf)
