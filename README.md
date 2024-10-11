@@ -22,13 +22,63 @@ Submit proposal document
 
 [Research Proposal, BIOL7263.pdf](Research Proposal, BIOL7263.pdf)
 
-#Test
+# Genome Adventure 2
+All sbatch and sh files associated with GA2
+Task 1
+[ecoli_fastqc.sbatch](ecoli_fastqc.sbatch)
+[ecoli_fastqc.sh](ecoli_fastqc.sh)
+
+Task 2
+[ecoli_trim.sh](ecoli_trim.sh)
+[ecoli_trim.sbatch](ecoli_trim.sbatch)
+
+Task 5
+[ecoli_index.sh](ecoli_index.sh)
+[ecoli_index.sbatch](ecoli_index.sbatch)
+
+Task 6
+[ecoli_bwa_mem.sh](ecoli_bwa_mem.sh)
+[ecoli_bwa_mem.sbatch](ecoli_bwa_mem.sbatch)
+
+Task 7
+[ecoli_samtools_view.sh](ecoli_samtools_view.sh)
+[ecoli_samtools_view.sbatch](ecoli_samtools_view.sbatch)
+[ecoli_map_sort.sh](ecoli_map_sort.sh)
+[ecoli_map_sort.sbatch](ecoli_map_sort.sbatch)
+
+Task 8
+[ecoli_markdup.sh](ecoli_markdup.sh)
+[ecoli_markdup.sbatch](ecoli_markdup.sbatch)
+
+Task 14
+[ecoli_vcf.sh](ecoli_vcf.sh)
+[ecoli_vcf.sbatch](ecoli_vcf.sbatch)
+[ecoli_call.sh](ecoli_call.sh)
+[ecoli_call.sbatch](ecoli_call.sbatch)
+[ecoli_filt.sh](ecoli_filt.sh)
 [ecoli_filt.sbatch](ecoli_filt.sbatch)
 
+Task 15 
+[ecoli_cover.sh](ecoli_filt.sh)
+[ecoli_cover.sbatch](ecoli_filt.sbatch)
 
 
-# # Proposal Assignment
+# Genome Adventure 3
+All sbatch and sh files associated with GA3
 
-Submit proposal document 
+Task 1
+[bam_to_fasta.sh](bam_to_fasta.sh)
+[bam_to_fasta.sbatch](bam_to_fasta.sbatch)
 
-[Research Proposal, BIOL7263.pdf](Research Proposal, BIOL7263.pdf)
+Task 3
+[unmapped_spades.sh](unmapped_spades.sh)
+[unmapped_spades.sbatch](unmapped_spades.sbatch)
+
+Task 4
+[unmapped_quast.sh](unmapped_quast.sh)
+[unmapped_quast.sbatch](unmapped_quast.sbatch)
+
+
+
+
+
