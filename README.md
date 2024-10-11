@@ -27,8 +27,3 @@ Submit proposal document
 
 
 
-# # Proposal Assignment
-
-Submit proposal document 
-
-[Research Proposal, BIOL7263.pdf](Research Proposal, BIOL7263.pdf)
