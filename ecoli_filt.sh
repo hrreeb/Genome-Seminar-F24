@@ -1,0 +1,1 @@
+vcftools --minDP 10 --min-alleles 2 --max-alleles 2 --non-ref-af 0.9 --vcf /scratch/biol726311/BIOL7263_Genomics/sequencing_data/ecoli/mapping_to_reference/var.called.vcf --recode --recode-INFO-all --out /scratch/mbtoomey/BIOL7263_Genomics/sequencing_data/ecoli/mapping_to_reference/var.called.filt 
