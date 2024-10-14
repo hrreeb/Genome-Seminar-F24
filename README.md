@@ -66,6 +66,7 @@ Task 15
 # Genome Adventure 3
 All sbatch and sh files associated with GA3
 
+
 Task 1
 [bam_to_fasta.sh](bam_to_fasta.sh)
 [bam_to_fasta.sbatch](bam_to_fasta.sbatch)
@@ -78,5 +79,14 @@ Task 4
 [unmapped_quast.sh](unmapped_quast.sh)
 [unmapped_quast.sbatch](unmapped_quast.sbatch)
 
+Task 6
+[unmapped_orf.sh](unmapped_orf.sh)
+[unmapped_orf.sbatch](unmapped_orf.sbatch)
+[unmapped_blastn.sh](unmapped_blastn.sh)
+[unmapped_blastn.sbatch](unmapped_blastn.sbatch)
+
+Task 7
+[unmapped_pfam.sh](unmapped_pfam.sh)
+[unmapped_pfam.sbatch](unmapped_pfam.sbatch)
 
 
