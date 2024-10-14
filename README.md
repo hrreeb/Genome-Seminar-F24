@@ -24,6 +24,8 @@ Submit proposal document
 
 # Genome Adventure 2
 All sbatch and sh files associated with GA2
+
+
 Task 1
 [ecoli_fastqc.sbatch](ecoli_fastqc.sbatch)
 [ecoli_fastqc.sh](ecoli_fastqc.sh)
