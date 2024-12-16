@@ -91,7 +91,17 @@ Task 7
 [unmapped_pfam.sh](unmapped_pfam.sh)
 [unmapped_pfam.sbatch](unmapped_pfam.sbatch)
 
-#Genome Adventure 4
+# Genome Adventure 4
 
-#Genome Adventure 5
+# Genome Adventure 5
+Task 2
 [pseudo_fastqc.sh](pseudo_fastqc.sh)
+[pseudo_fastqc.sbatch](pseudo_fastqc.sbatch)
+
+Task 3
+[pseudo_trim.sh](pseudo_trim.sh)
+[pseudo_trim.sbatch](pseudo_trim.sbatch)
+
+Task 4
+[pseudo_spades.sh](pseudo_spades.sh)
+[pseudo_spades.sbatch](pseudo_spades.sbatch)
