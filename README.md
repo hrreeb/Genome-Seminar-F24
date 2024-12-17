@@ -177,3 +177,6 @@ Maybe this one
 Try as .rm
 [FinalGouldian_Genome_Project.md](FinalGouldian_Genome_Project.rm)
 
+[FinalGouldian_Genome_Project.md.html](file:///Users/loreeb/Downloads/gouldian%20finch%20work/to%20push%20to%20GIt/FinalGouldian_Genome_Project.md.html)
+
+/Users/loreeb/Downloads/gouldian finch work/to push to GIt/FinalGouldian_Genome_Project.md.html
