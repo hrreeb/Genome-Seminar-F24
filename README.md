@@ -123,19 +123,43 @@ Task 4
 [pseud_short_assembly.sh](pseud_short_assembly.sh)
 [pseud_short_assembly.sbatch](pseud_short_assembly.sbatch)
 
-[pseudo_quast.sh]
-[pseudo_quast.sbatch]
+[pseudo_quast.sh](pseudo_quast.sh)
+[pseudo_quast.sbatch](pseudo_quast.sbatch)
 
 Task 5
-[pseud_long_assembly.sh]
-[pseud_long_assembly.sbatch]
+[pseud_long_assembly.sh](pseud_long_assembly.sh)
+[pseud_long_assembly.sbatch](pseud_long_assembly.sbatch)
 
-[pseudo_quast_long.sh]
-[pseudo_quast_long.sbatch]
+[pseudo_quast_long.sh](pseudo_quast_long.sh)
+[pseudo_quast_long.sbatch](pseudo_quast_long.sbatch)
 
 Task 6
-[illumina_bwa_index.sh]
+[illumina_bwa_index.sh](illumina_bwa_index.sh)
+[illumina_bwa_index.sbatch](illumina_bwa_index.sbatch)
 
+[illumina_bwa_mem.sh](illumina_bwa_mem.sh)
+[illumina_bwa_mem.sbatch](llumina_bwa_mem.sbatch)
+
+[illumina_sam_view.sh](illumina_sam_view.sh)
+[illumina_sam_view.sbatch](illumina_sam_view.sbatch)
+
+[illumina_flagstat.sh](illumina_flagstat.sh)
+[illumina_flagstat.sbatch](illumina_flagstat.sbatch)
+
+[pacbio_minimap.sh](pacbio_minimap.sh)
+[pacbio_minimap.sbatch](pacbio_minimap.sbatch)
+
+[pacbio_sam_view.sh](pacbio_sam_view.sh)
+[pacbio_sam_view.sbatch](pacbio_sam_view.sbatch)
+
+[pacbio_sam_sort.sh](pacbio_sam_sort.sh)
+[pacbio_sam_sort.sbatch](pacbio_sam_sort.sbatch)
+
+[pacbio_sam_index.sh](pacbio_sam_index.sh)
+[pacbio_sam_index.sbatch](pacbio_sam_index.sbatch)
+
+[pacbio_sam_flagstat.sh](pacbio_sam_flagstat.sh)
+[pacbio_sam_flagstat.sbatch](pacbio_sam_flagstat.sbatch)
 
 
 
