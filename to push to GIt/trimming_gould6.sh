@@ -1,0 +1,1 @@
+trim_galore --fastqc --gzip --cores 4 --length 100 /scratch/biol726311/gouldian/sample_data/run_2609_s_2_withindex_sequence.txt_GCTTAGA.fq.gz --basename trimmed_reads6 -o /scratch/biol726311/gouldian/trim_output
