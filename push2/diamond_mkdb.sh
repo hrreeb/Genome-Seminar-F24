@@ -1,0 +1,1 @@
+diamond makedb --in uniprotkb_taxonomy_id_59729_2024_12_04.fasta -d anno_finch
