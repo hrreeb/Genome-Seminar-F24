@@ -168,6 +168,8 @@ Task 6
 # Link to project Rmarkdown
 Independent project assignment looking at gene expression in belly and head feathers in Gouldian finches. 
 
+Unfortunately, none of these links work. In the repository, the file called ""
+
 This .html file may be too large to view
 [Gouldian_Genome_Project.html](Gouldian_Genome_Project.html)
 
@@ -175,8 +177,7 @@ Maybe this one
 [FinalGouldian_Genome_Project.html](FinalGouldian_Genome_Project.html)
 
 Try as .rm
-[FinalGouldian_Genome_Project.md](FinalGouldian_Genome_Project.rm)
+[FinalGouldian_Genome_Project.md](FinalGouldian_Genome_Project.md)
 
-[FinalGouldian_Genome_Project.md.html](FinalGouldian_Genome_Project.md.html)
+[FinalGouldian_Genome_Project.html](FinalGouldian_Genome_Project.html)
 
-/Users/loreeb/Downloads/gouldian finch work/to push to GIt/FinalGouldian_Genome_Project.md.html
