@@ -129,4 +129,3 @@ Independent project assignment looking at gene expression in belly and head feat
 This .html file may be too large to view
 [Gouldian_Genome_Project.html](Gouldian_Genome_Project.html)
 
-[Gouldian_Genome_Project.Rmd](Gouldian_Genome_Project.Rmd)
