@@ -1,0 +1,4 @@
+bwa index /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta
+bwa mem -t 2 /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/trimmed_reads_val_1.fq.gz /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/trimmed_reads_val_2.fq.gz > /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/mapping_to_assembly/contigs_mapped.sam 
+samtools sort -o /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/mapping_to_assembly/contigs_mapped_sorted.bam /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/mapping_to_assembly/contigs_mapped.sam
+samtools index /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/mapping_to_assembly/contigs_mapped_sorted.bam
