@@ -1,0 +1,5 @@
+ln -s /scratch/biol726311/gouldian/ZeFiGoFi_blastx.tsv ZeFiGoFi_blastx.tsv
+
+
+
+awk -F'\t' '{split($6, arr, " "); for (i in arr) if (arr[i] ~ /^GN=/) {split(arr[i], gene, "="); print $1 "\t" gene[2]}}' ZeFiGoFi_blastx.tsv > ENSEGOT_GN.tsv

@@ -1,0 +1,9 @@
+Run_s	treat
+Seq0	belly
+Seq1	head
+Seq2	belly
+Seq3	head
+Seq4	belly
+Seq5	belly
+Seq6	head
+Seq9	head

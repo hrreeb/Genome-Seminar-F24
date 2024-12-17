@@ -1,0 +1,8 @@
+./output/seq0 trimmed_reads_trimmed.fq.gz
+./output/seq1 trimmed_reads1_trimmed.fq.gz
+./output/seq2 trimmed_reads2_trimmed.fq.gz
+./output/seq3 trimmed_reads3_trimmed.fq.gz
+./output/seq4 trimmed_reads4_trimmed.fq.gz
+./output/seq5 trimmed_reads5_trimmed.fq.gz
+./output/seq6 trimmed_reads6_trimmed.fq.gz
+./output/seq9 trimmed_reads9_trimmed.fq.gz

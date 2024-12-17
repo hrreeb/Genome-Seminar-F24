@@ -1,0 +1,8 @@
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/0ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads1_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/1ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads2_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/2ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads3_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/3ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads4_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/4ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads5_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/5ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads6_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/6ERGO_hisat2.sam
+/scratch/biol726311/gouldian/hisat_mapping/HS_index_ERGO /scratch/biol726311/gouldian/hisat_mapping/trimmed_reads/trimmed_reads9_trimmed.fq /scratch/biol726311/gouldian/hisat_mapping/map_output/9ERGO_hisat2.sam
