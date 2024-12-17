@@ -93,7 +93,8 @@ Task 7
 
 # Genome Adventure 4
 Task 1
-
+[full_spades.sh](full_spades.sh)
+[full_spades.sbatch](full_spades.sbatch)
 
 Task 3
 [align_de_novo.sh](align_de_novo.sh)
