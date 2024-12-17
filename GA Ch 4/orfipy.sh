@@ -1,0 +1,2 @@
+orfipy /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta --pep orfs.fa --min 10 --max 10000 --procs 4 --min 300 --table 9 --outdir /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly
+orfipy /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta --bed /scratch/biol726311/COPYBIOL7263_Genomics/sequencing_data/ecoli/assembly/orfs.bed --table 9 --min 300 --procs 4
