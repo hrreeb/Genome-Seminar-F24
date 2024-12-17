@@ -120,8 +120,26 @@ Task 3
 [pseudo_trim.sbatch](pseudo_trim.sbatch)
 
 Task 4
-[pseudo_spades.sh](pseudo_spades.sh)
-[pseudo_spades.sbatch](pseudo_spades.sbatch)
+[pseud_short_assembly.sh](pseud_short_assembly.sh)
+[pseud_short_assembly.sbatch](pseud_short_assembly.sbatch)
+
+[pseudo_quast.sh]
+[pseudo_quast.sbatch]
+
+Task 5
+[pseud_long_assembly.sh]
+[pseud_long_assembly.sbatch]
+
+[pseudo_quast_long.sh]
+[pseudo_quast_long.sbatch]
+
+Task 6
+[illumina_bwa_index.sh]
+
+
+
+
+
 
 # Link to project Rmarkdown
 Independent project assignment looking at gene expression in belly and head feathers in Gouldian finches. 
@@ -131,3 +149,7 @@ This .html file may be too large to view
 
 Maybe this one
 [FinalGouldian_Genome_Project.html](FinalGouldian_Genome_Project.html)
+
+Try as .rm
+[FinalGouldian_Genome_Project.md](FinalGouldian_Genome_Project.rm)
+
