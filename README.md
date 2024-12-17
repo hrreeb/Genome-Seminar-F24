@@ -105,3 +105,8 @@ Task 3
 Task 4
 [pseudo_spades.sh](pseudo_spades.sh)
 [pseudo_spades.sbatch](pseudo_spades.sbatch)
+
+# Link to project Rmarkdown
+Independent project assignment looking at gene expression in belly and head feathers in Gouldian finches. 
+
+
