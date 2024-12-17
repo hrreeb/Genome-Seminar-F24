@@ -92,6 +92,24 @@ Task 7
 [unmapped_pfam.sbatch](unmapped_pfam.sbatch)
 
 # Genome Adventure 4
+Task 1
+[full_spades.sh](full_spades.sh)
+[full_spades.sbatch](full_spades.sbatch)
+
+Task 3
+[align_de_novo.sh] 
+align_de_novo.sbatch
+qmap_de_novo.sh 
+qmap_de_novo.sbatch
+
+Task 5
+orfipy.sh 
+orfipy.sbatch
+pfam.sh 
+pfam.sbatch
+orf_blast.sh
+orf_blast.sbatch
+
 
 # Genome Adventure 5
 Task 2
