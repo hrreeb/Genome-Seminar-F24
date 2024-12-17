@@ -20,7 +20,7 @@ Today we worked on accessing the mamba/.conda environment, writing .sbatch and .
 
 Submit proposal document 
 
-
+[1Research Proposal_BIOL7263.pdf](1Research Proposal_BIOL7263.pdf)
 
 # Genome Adventure 2
 All sbatch and sh files associated with GA2
