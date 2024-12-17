@@ -1,0 +1,1 @@
+quast.py --output-dir /scratch/biol726311/pseudomonas_gm41/Assembly/hybrid/quast /scratch/biol726311/pseudomonas_gm41/Assembly/hybrid/contigs.fasta
