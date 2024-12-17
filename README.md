@@ -126,5 +126,7 @@ Task 4
 # Link to project Rmarkdown
 Independent project assignment looking at gene expression in belly and head feathers in Gouldian finches. 
 
+This .html file may be too large to view
 [Gouldian_Genome_Project.html](Gouldian_Genome_Project.html)
 
+[Gouldian_Genome_Project.Rmd](Gouldian_Genome_Project.Rmd)
